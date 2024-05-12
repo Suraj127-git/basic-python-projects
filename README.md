@@ -36,6 +36,6 @@ Contributions to this repository are encouraged! Whether it's adding a new proje
 
 ## Contact
 
-If you have any questions, feedback, or suggestions regarding the projects or repository, feel free to reach out to the repository maintainer at maintainer@example.com.
+If you have any questions, feedback, or suggestions regarding the projects or repository, feel free to reach out to the repository maintainer at shetty44444@gmail.com.
 
 Happy Python coding! 🐍
